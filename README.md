@@ -1,17 +1,21 @@
 ### Hola!, I'm Mohd Sameer Ahmad 👋
 Full Stack Developer (React Native (Expo), MERN)
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 <ul>
-  <li>JavaScript (Vanilla, React.Js, Redux, Node.Js, Express.Js), React Native, C (Data Structures), Python (Django, Django Rest Framework) Geek.</li>
-  <li>Having good command over HTML5, CSS3, JS.</li>
-  <li>🔭 I’m currently working on a crossplatform app for managing club events in my college</li>
-  <li>🌱 I’m currently learning MERN, React Native</li>
-  <li>😎 Managing code with Git Version Control</li>
-  <li>🤔 I’m looking for help with DevOps</li>
-  <li>💬 Ask me about MERN stack and react native</li>
-  <li>😄 Pronouns: He/His</li>
-  <li>⚡ Fun fact: coding is a genie</li>
+  <li>💻 JavaScript (Vanilla, React.Js, Redux, Node.Js, Express.Js), React Native, C (Data Structures), Python (Django, Django Rest Framework) Geek.</li>
+  <li>🌐 Having good command over HTML5, CSS3, JS.</li>
+  <li>🔭 I’m currently working on a crossplatform app for managing club events in my college.</li>
+  <li>🌱 I’m currently learning MERN, React Native.</li>
+  <li>😎 Managing code with Git Version Control.</li>
+  <li>🤔 I’m looking for help with DevOps.</li>
+  <li>💬 Ask me about MERN stack and react native.</li>
+  <li>👯 I’m looking for a JS fullstack internship.</li>
+  <li>😄 Pronouns: He/His.</li>
+  <li>⚡ Fun fact: coding is a genie.</li>
 </ul>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
