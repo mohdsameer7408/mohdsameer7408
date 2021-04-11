@@ -61,8 +61,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="www.linkedin.com/in/mohd-sameer-ahmad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohd%20Sameer%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/___s_a_m_ee_r___/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-___s_a_m_ee_r___-E4405F?style=flat-square&logo=instagram"></a>
-<a href="mailto:mohdsameer7408@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohdsameer7408@gmail.com-D14836?style=flat-square&logo=gmail"></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-mohdsameerahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-sameer-ahmad/)](https://www.linkedin.com/in/mohd-sameer-ahmad/)
+[![Gmail Badge](https://img.shields.io/badge/-mohdsameer7408@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdsameer7408@gmail.com)](mailto:mohdsameer7408@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-___s_a_m_ee_r___-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/___s_a_m_ee_r___/)](https://www.instagram.com/___s_a_m_ee_r___/)
