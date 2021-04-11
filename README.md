@@ -1,22 +1,18 @@
 ### Hola!, I'm Mohd Sameer Ahmad 👋
 Full Stack Developer (React Native (Expo), MERN)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my college project...
-- 🌱 I’m currently learning MERN, React Native...
-- 👯 I’m looking to collaborate on web development...
-- 🤔 I’m looking for help with Expo Production environment...
-- 💬 Ask me about MERN stack and react native...
-- 📫 How to reach me: Twitter - @mohdsameer7408...
-- 😄 Pronouns: He/His...
-- ⚡ Fun fact: coding is a genie...
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-C (Data Structures), Python (Django, Django Rest Framework), JavaScript (Vanilla, React.Js, Redux, Node.Js, Express.Js), React Native Geek.
-Great Command over HTML5, CSS, JS.
-Exploring more on React.Js, Express.Js, MERN Stack, React Native, Data Science (Specialization)
-Managing code with Git Version Control.
+<ul>
+  <li>JavaScript (Vanilla, React.Js, Redux, Node.Js, Express.Js), React Native, C (Data Structures), Python (Django, Django Rest Framework) Geek.</li>
+  <li>Having good command over HTML5, CSS3, JS.</li>
+  <li>🔭 I’m currently working on a crossplatform app for managing club events in my college</li>
+  <li>🌱 I’m currently learning MERN, React Native</li>
+  <li>😎 Managing code with Git Version Control</li>
+  <li>🤔 I’m looking for help with DevOps</li>
+  <li>💬 Ask me about MERN stack and react native</li>
+  <li>😄 Pronouns: He/His</li>
+  <li>⚡ Fun fact: coding is a genie</li>
+</ul>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
