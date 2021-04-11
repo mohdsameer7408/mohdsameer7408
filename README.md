@@ -33,7 +33,7 @@ Full Stack Developer (React Native (Expo), MERN)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![MaterialUi](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=material-ui)
 - 📱 &nbsp;&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react-native)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
