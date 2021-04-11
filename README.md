@@ -22,6 +22,7 @@ Full Stack Developer (React Native (Expo), MERN)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -32,7 +33,8 @@ Full Stack Developer (React Native (Expo), MERN)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![MaterialUi](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=material-ui)
 - 📱 &nbsp;&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react-native)
+  ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
