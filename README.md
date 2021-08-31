@@ -4,7 +4,7 @@ Full Stack Developer (React Native (Expo), MERN)
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+A computer science enthusiast with college project experience in full stack, mobile development, looking to utilize my knowledge and skills for the organization’s growth.
 <ul>
   <li>💻 JavaScript (Vanilla, React.Js, Redux, Node.Js, Express.Js), React Native, C (Data Structures), Python (Django, Django Rest Framework) Geek.</li>
   <li>🌐 Having good command over HTML5, CSS3, JS.</li>
